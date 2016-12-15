@@ -1,0 +1,5 @@
+<ruleset name="Thairath.co.th">
+	<target host="thairath.co.th" />
+	<target host="*.thairath.co.th" />
+	<rule from="^http:" to="https:" />
+</ruleset>

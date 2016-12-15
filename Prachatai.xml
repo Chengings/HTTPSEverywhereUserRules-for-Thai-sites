@@ -1,0 +1,5 @@
+<ruleset name="Prachatai.org (partial)">
+	<target host="prachatai.org" />
+	<target host="*.prachatai.org" />
+	<rule from="^http:" to="https:" />
+</ruleset>

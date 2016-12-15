@@ -1,0 +1,7 @@
+<ruleset name="Pantip.com">
+	<target host="pantip.com" />
+	<target host="ptcdn.info" />
+	<target host="*.pantip.com" />
+	<target host="*.ptcdn.info" />
+	<rule from="^http:" to="https:" />
+</ruleset>
